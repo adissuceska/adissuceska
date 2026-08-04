@@ -1,42 +1,35 @@
-# Hi there, I am Adis Sućeska 
+# Hi, I am Adis Sućeska 
 
-I am a [Your Role, e.g., Full-Stack Developer, Data Scientist, DevOps Engineer] passionate about [mention your focus, e.g., building scalable applications, machine learning, automation]. I love turning ideas into reality through code and collaboration.
+I am a **Frontend Developer in Training** focused on building responsive and user-friendly web applications. I enjoy working with modern technologies like React and JavaScript to create seamless user experiences.
 
-## 🔧 Tech Stack
+## Tech Stack
 
-Here are some of the technologies I work with:
-
-- **Languages:** [List languages, e.g., Python, JavaScript, Java]
-- **Frameworks/Libraries:** [List frameworks, e.g., React, Django, TensorFlow]
-- **Tools:** [List tools, e.g., Git, Docker, VS Code]
-- **Other:** [List anything else, e.g., AWS, SQL, Figma]
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks:** React, Bootstrap
+- **Tools:** Git, GitHub, VS Code
+- **Other:** REST API, Figma
 
 ---
 
-## 🚀 Projects
+## Projects
 
-Here are a few projects I have worked on:
+1. **[React eCommerce App](https://github.com/yourusername/react-ecommerce)**
+   - A fully responsive eCommerce application.
+   - Technologies: React.
 
-1. **[React eCommerce App](https://react-ecommerce-app-asuceska.netlify.app/)**
-   - A brief description of the project.
-   - Technologies used: [List technologies].
+2. **[ToDo App with Local Storage](https://github.com/yourusername/todo-app)**
+   - A simple ToDo app that saves tasks to the browser's local storage.
+   - Technologies: Vue.
 
-3. **[Project Name](link-to-project)**
-   - A brief description of the project.
-   - Technologies used: [List technologies].
-
-4. **[Project Name](link-to-project)**
-   - A brief description of the project.
-   - Technologies used: [List technologies].
+3. **[Product Search App](https://github.com/yourusername/product-search)**
+   - A product search application that fetches data from a public API.
+   - Technologies: Angular.
 
 ---
 
-## 📫 Let's Connect
+## Contact
 
-I am always open to collaborating on interesting projects or discussing tech! Feel free to reach out:
-
-- 🔗 [LinkedIn](link-to-linkedin)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yourusername)
 - 📧 [Email](mailto:your-email@example.com)
-- 🐙 [GitHub](link-to-github)
-- 📄 [Resume/CV](link-to-resume)
+- 🐙 [GitHub](https://github.com/yourusername)
 
