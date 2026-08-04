@@ -17,15 +17,15 @@ Here are some of the technologies I work with:
 
 Here are a few projects I've worked on:
 
-1. **[Project Name](link-to-project)**
-   - A brief description of the project.
-   - Technologies used: [List technologies].
-
-2. **[Project Name](link-to-project)**
+1. ** React eCommerce app (https://react-ecommerce-app-asuceska.netlify.app/)**
    - A brief description of the project.
    - Technologies used: [List technologies].
 
 3. **[Project Name](link-to-project)**
+   - A brief description of the project.
+   - Technologies used: [List technologies].
+
+4. **[Project Name](link-to-project)**
    - A brief description of the project.
    - Technologies used: [List technologies].
 
