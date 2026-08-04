@@ -17,7 +17,7 @@ I am a **Frontend Developer in Training** focused on building responsive and use
    - A fully responsive eCommerce application.
    - Technologies: React.
 
-2. **[ToDo App with Local Storage](https://github.com/yourusername/todo-app)**
+2. **[ToDo App with Local Storage](https://github.com/adissuceska/ToDo-App-with-Local-Storage)**
    - A simple ToDo app that saves tasks to the browser's local storage.
    - Technologies: Vue.
 
