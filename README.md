@@ -1,6 +1,6 @@
-# Hi there, I am Adis Sućeska 👋
+# Hi there, I am Adis Sućeska 
 
-I'm a [Your Role, e.g., Full-Stack Developer, Data Scientist, DevOps Engineer] passionate about [mention your focus, e.g., building scalable applications, machine learning, automation]. I love turning ideas into reality through code and collaboration.
+I am a [Your Role, e.g., Full-Stack Developer, Data Scientist, DevOps Engineer] passionate about [mention your focus, e.g., building scalable applications, machine learning, automation]. I love turning ideas into reality through code and collaboration.
 
 ## 🔧 Tech Stack
 
@@ -15,9 +15,9 @@ Here are some of the technologies I work with:
 
 ## 🚀 Projects
 
-Here are a few projects I've worked on:
+Here are a few projects I have worked on:
 
-1. ** React eCommerce app (https://react-ecommerce-app-asuceska.netlify.app/)**
+1. **[React eCommerce App](https://react-ecommerce-app-asuceska.netlify.app/)**
    - A brief description of the project.
    - Technologies used: [List technologies].
 
@@ -33,7 +33,7 @@ Here are a few projects I've worked on:
 
 ## 📫 Let's Connect
 
-I'm always open to collaborating on interesting projects or discussing tech! Feel free to reach out:
+I am always open to collaborating on interesting projects or discussing tech! Feel free to reach out:
 
 - 🔗 [LinkedIn](link-to-linkedin)
 - 📧 [Email](mailto:your-email@example.com)
