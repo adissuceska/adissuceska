@@ -13,7 +13,7 @@ I am a **Frontend Developer in Training** focused on building responsive and use
 
 ## Projects
 
-1. **[React eCommerce App](https://github.com/yourusername/react-ecommerce)**
+1. **[React eCommerce App](https://github.com/adissuceska/react-ecommerce-app)**
    - A fully responsive eCommerce application.
    - Technologies: React.
 
