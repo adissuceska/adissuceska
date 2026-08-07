@@ -13,7 +13,7 @@ I am a **Frontend Developer in Training** focused on building responsive and use
 
 ## Projects
 
-1. **[React eCommerce App](https://github.com/adissuceska/react-ecommerce-app)**
+1. **[React eCommerce App](https://github.com/adissuceska/React-eCommerce-App)**
    - A fully responsive eCommerce application.
    - Technologies: React.
 
@@ -21,8 +21,8 @@ I am a **Frontend Developer in Training** focused on building responsive and use
    - A simple ToDo app that saves tasks to the browser's local storage.
    - Technologies: Vue.
 
-3. **[Product Search App](https://github.com/yourusername/product-search)**
-   - A product search application that fetches data from a public API.
+3. **[Product Search App](https://github.com/adissuceska/Product-Search-App)**
+   - A product search application that fetches data from a database.
    - Technologies: Angular.
 
 ---
