@@ -29,7 +29,6 @@ I am a **Frontend Developer in Training** focused on building responsive and use
 
 ## Contact
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yourusername)
-- 📧 [Email](mailto:your-email@example.com)
-- 🐙 [GitHub](https://github.com/yourusername)
+- [Portfolio page](https://portfolio-page-adissuceska.netlify.app/)
+  
 
