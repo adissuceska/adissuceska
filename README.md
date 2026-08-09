@@ -5,7 +5,7 @@ I am a **Frontend Developer in Training** focused on building responsive and use
 ## Tech Stack
 
 - **Languages:** HTML, CSS, JavaScript
-- **Frameworks:** React, Bootstrap
+- **Frameworks:** React, Vue
 - **Tools:** Git, GitHub, VS Code
 - **Other:** REST API, Figma
 
