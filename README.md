@@ -22,7 +22,7 @@ I am a **Frontend Developer in Training** focused on building responsive and use
    - Technologies: CSS, Vue, JavaScript, & HTML.
 
 3. **[Booking App](https://github.com/adissuceska/Booking-App)**
-   - Built for simplicity, this app provides a seamless way to handle reservations, ensuring users never miss an important booking.
+   - Built for simplicity, this app provides a seamless way to handle reservations, ensuring users never miss an appointment.
    - Technologies: CSS, HTML, JavaScript, & Angular.
 
 ---
