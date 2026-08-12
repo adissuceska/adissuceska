@@ -14,21 +14,21 @@ I am a **Frontend Developer in Training** focused on building responsive and use
 ## Projects
 
 1. **[React eCommerce App](https://github.com/adissuceska/React-eCommerce-App)**
-   - A fully responsive eCommerce application.
-   - Technologies: React.
+   - A fully functional online store featuring product browsing, filtering, and a cart system for a seamless shopping experience.
+   - Technologies: React, JavaScript, CSS, & HTML.
 
 2. **[ToDo App with Local Storage](https://github.com/adissuceska/ToDo-App-with-Local-Storage)**
-   - A simple ToDo app that saves tasks to the browser's local storage.
-   - Technologies: Vue.
+   - A simple task manager allowing users to add, edit, and delete tasks while storing data locally.
+   - Technologies: CSS, Vue, JavaScript, & HTML.
 
-3. **[Product Search App](https://github.com/adissuceska/Product-Search-App)**
-   - A product search application that fetches data from a database.
-   - Technologies: Angular.
+3. **[Booking App](https://github.com/adissuceska/Booking-App)**
+   - Built for simplicity, this app provides a seamless way to handle reservations, ensuring users never miss an important booking.
+   - Technologies: CSS, HTML, JavaScript, & Angular.
 
 ---
 
-## Contact
+## Contact me
 
-- [Portfolio page](https://portfolio-site-drab-kappa-80.vercel.app/)
+- [Portfolio site](https://portfolio-site-drab-kappa-80.vercel.app/)
   
 
