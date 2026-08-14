@@ -30,6 +30,6 @@ I am a **Frontend Developer in Training** focused on building responsive and use
 ## Contact me
 
 - [Portfolio site](https://portfolio-site-drab-kappa-80.vercel.app/)
-- [LinkedIn](linkedin.com/in/adis-sućeska-9770ab345)
+- [LinkedIn](https://www.linkedin.com/in/adis-su%C4%87eska-9770ab345/)
   
 
